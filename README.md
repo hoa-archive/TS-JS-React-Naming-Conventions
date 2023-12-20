@@ -22,20 +22,20 @@ src/
 └── utils/
 ```
 
-assets - images, global styles
-layouts - header, footer, sidebar, navbar (components available to entire project)
-components - ui elements: buttons, modals, inputs, loaders etc (used across many files)
-pages - each page in a project
-middleware - side effects in app; store redux actions
-routes - private, protected, public, sub routes in app
-config - env variables in config.js, other configs
-services - with redux (actions, reducers, constant), apis
-utils - utility functions
-data - objects, dropdown options, regex conditions, formatting, constants
-hooks - custom hooks
-context - useContext hook
-lib - facades for imported libraries
-features - manage new features in app
+ - assets - images, global styles
+ - layouts - header, footer, sidebar, navbar (components available to entire project)
+ - components - ui elements: buttons, modals, inputs, loaders etc (used across many files)
+ - pages - each page in a project
+ - middleware - side effects in app; store redux actions
+ - routes - private, protected, public, sub routes in app
+ - config - env variables in config.js, other configs
+ - services - with redux (actions, reducers, constant), apis
+ - utils - utility functions
+ - data - objects, dropdown options, regex conditions, formatting, constants
+ - hooks - custom hooks
+ - context - useContext hook
+ - lib - facades for imported libraries
+ - features - manage new features in app
 
 
 #### Case Styles
