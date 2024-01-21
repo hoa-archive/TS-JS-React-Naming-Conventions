@@ -92,3 +92,27 @@ src/
  - https://www.makeuseof.com/tag/10-tips-writing-cleaner-better-code/
  - https://elser.hashnode.dev/javascript-naming-convention-for-beginners
  - https://www.syncfusion.com/blogs/post/top-javascript-naming-convention.aspx
+
+
+#### Notes
+Git Naming Conventions
+ - https://dev.to/varbsan/a-simplified-convention-for-naming-branches-and-commits-in-git-il4
+
+React Project Structure
+ - https://github.com/alan2207/bulletproof-react/blob/master/docs/project-structure.md
+
+Git Commit Standards
+ - https://karma-runner.github.io/1.0/dev/git-commit-msg.html
+ - https://medium.com/@naandalist/creating-a-git-commit-message-convention-for-your-team-acb4b3edfc44
+
+
+#### types:
+ - feat - new features
+ - fix - bug fixes
+ - docs - changes to documentation
+ - style - formatting and styling; no prod changes
+ - refactor - changes to prod code; i.e. renaming a variable
+ - test - add tests, refactor tests; no prod changes
+ - chore - file changes that dont affect user; updating gitignore or prettier etc
+ - build - changes to build system or external dependencies
+ - perf - changes to code that improve performance
